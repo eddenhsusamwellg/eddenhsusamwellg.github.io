@@ -14,16 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+# 網站基本資訊
+title: Edden 的軟體實戰筆記
+description: 專注於 Python、Unity 與軟體開發轉職的實戰心得。
+url: https://eddenhsusamwellg.github.io
+lang: zh-TW
+timezone: Asia/Taipei
+# 作者資訊
+author:
+  name: Edden
+  email: (你的信箱)
+  twitter: (如果有)
+  link: (你的連結)
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
-
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
-# Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
 
 github:
   username: github_username # change to your GitHub username
