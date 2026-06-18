@@ -1,1 +1,15 @@
+- title: 首頁
+  url: /
+  icon: fas fa-home
 
+- title: 分類
+  url: /categories/
+  icon: fas fa-stream
+
+- title: 標籤
+  url: /tags/
+  icon: fas fa-tag
+
+- title: 關於我
+  url: /about/
+  icon: fas fa-info-circle
